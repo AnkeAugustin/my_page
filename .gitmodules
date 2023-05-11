@@ -1,0 +1,3 @@
+[submodule "sub_plugins"]
+	path = sub_plugins
+	url = git@github.com:AnkeAugustin/sub_plugins.git
